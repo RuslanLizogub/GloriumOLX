@@ -1,0 +1,62 @@
+{
+  "uid" : "2a43d169e8fc23bb",
+  "name" : "openStartPage",
+  "title" : "Open start page",
+  "time" : {
+    "start" : 1484694937562,
+    "stop" : 1484694942677,
+    "duration" : 5115
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "32a4b1fa006d7bcb",
+    "name" : "CRM Iguana Next functional : High Priority",
+    "title" : "CRM Iguana Next functional : High Priority"
+  },
+  "steps" : [ {
+    "name" : "openPage",
+    "title" : "Open Home page",
+    "time" : {
+      "start" : 1484694937963,
+      "stop" : 1484694942674,
+      "duration" : 4711
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "CRM Iguana Next functional : High Priority"
+  }, {
+    "name" : "suite-title",
+    "value" : "CRM Iguana Next functional : High Priority"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "thread",
+    "value" : "9980@DESKTOP-UENLMAK.main(1)"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-UENLMAK"
+  } ],
+  "parameters" : [ ]
+}

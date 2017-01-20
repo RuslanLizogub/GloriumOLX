@@ -1,0 +1,25 @@
+{
+  "testCases" : [ {
+    "uid" : "2a43d169e8fc23bb",
+    "name" : "openStartPage",
+    "title" : "Open start page",
+    "time" : {
+      "start" : 1484694937562,
+      "stop" : 1484694942677,
+      "duration" : 5115
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "c11f5c1a10c0447a",
+    "name" : "openStartPage",
+    "title" : "Open start page",
+    "time" : {
+      "start" : 1484694937562,
+      "stop" : 1484694942677,
+      "duration" : 5115
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}

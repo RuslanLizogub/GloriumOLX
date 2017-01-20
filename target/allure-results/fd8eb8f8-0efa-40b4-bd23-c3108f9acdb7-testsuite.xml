@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1484730689283" stop="1484730708558" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : Glorium</name>
+    <title>Default Suite : Glorium</title>
+    <test-cases>
+        <test-case start="1484730693814" stop="1484730706453" status="passed">
+            <name>openStartPage</name>
+            <steps>
+                <step start="1484730694370" stop="1484730699887" status="passed">
+                    <name>openPage</name>
+                    <title>Open Home page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1484730704909" stop="1484730706449" status="passed">
+                    <name>clickToNewAdvertLink</name>
+                    <title>Click to new advert link</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-UENLMAK"/>
+                <label name="thread" value="10360@DESKTOP-UENLMAK.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

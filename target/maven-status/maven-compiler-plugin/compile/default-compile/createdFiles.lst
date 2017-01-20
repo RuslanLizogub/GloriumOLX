@@ -1,0 +1,5 @@
+settings\Driver.class
+settings\Utils.class
+pages\PageFactorySettings.class
+settings\BaseTestSettings.class
+pages\MainPage.class

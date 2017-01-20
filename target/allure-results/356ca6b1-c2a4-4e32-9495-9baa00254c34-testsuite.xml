@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1484737242274" stop="1484737266678" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : Glorium</name>
+    <title>Default Suite : Glorium</title>
+    <test-cases>
+        <test-case start="1484737246924" stop="1484737266321" status="passed">
+            <name>simpleAdvertTest</name>
+            <steps>
+                <step start="1484737247509" stop="1484737253009" status="passed">
+                    <name>openPage</name>
+                    <title>Open Home page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1484737253017" stop="1484737254609" status="passed">
+                    <name>clickToNewAdvertLink</name>
+                    <title>Click to new advert link</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1484737254612" stop="1484737257928" status="passed">
+                    <name>loginToAccount</name>
+                    <title>Login to account</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1484737257935" stop="1484737258012" status="passed">
+                    <name>checkLoginToAccount</name>
+                    <title>Check login to account</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-UENLMAK"/>
+                <label name="thread" value="4312@DESKTOP-UENLMAK.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

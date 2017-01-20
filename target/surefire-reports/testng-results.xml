@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="CRM Iguana Next functional" duration-ms="9820" started-at="2017-01-17T23:15:33Z" finished-at="2017-01-17T23:15:42Z">
+    <groups>
+    </groups>
+    <test name="High Priority" duration-ms="9820" started-at="2017-01-17T23:15:33Z" finished-at="2017-01-17T23:15:42Z">
+      <class name="SimpleAdvert">
+        <test-method status="PASS" signature="init()[pri:0, instance:SimpleAdvert@47d7bfb3]" name="init" is-config="true" duration-ms="4334" started-at="2017-01-18T01:15:33Z" finished-at="2017-01-18T01:15:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="openStartPage()[pri:0, instance:SimpleAdvert@47d7bfb3]" name="openStartPage" duration-ms="5161" started-at="2017-01-18T01:15:37Z" finished-at="2017-01-18T01:15:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openStartPage -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:SimpleAdvert@47d7bfb3]" name="cleanup" is-config="true" duration-ms="247" started-at="2017-01-18T01:15:42Z" finished-at="2017-01-18T01:15:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- SimpleAdvert -->
+    </test> <!-- High Priority -->
+  </suite> <!-- CRM Iguana Next functional -->
+</testng-results>

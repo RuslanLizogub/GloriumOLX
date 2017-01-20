@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1484694933146" stop="1484694942996" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>CRM Iguana Next functional : High Priority</name>
+    <title>CRM Iguana Next functional : High Priority</title>
+    <test-cases>
+        <test-case start="1484694937562" stop="1484694942677" status="passed">
+            <name>openStartPage</name>
+            <steps>
+                <step start="1484694937963" stop="1484694942674" status="passed">
+                    <name>openPage</name>
+                    <title>Open Home page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-UENLMAK"/>
+                <label name="thread" value="9980@DESKTOP-UENLMAK.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1484694937562" stop="1484694942677" status="passed">
+            <name>openStartPage</name>
+            <steps>
+                <step start="1484694937963" stop="1484694942674" status="passed">
+                    <name>openPage</name>
+                    <title>Open Home page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-UENLMAK"/>
+                <label name="thread" value="9980@DESKTOP-UENLMAK.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
