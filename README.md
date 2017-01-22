@@ -1,5 +1,4 @@
 # GloriumOLX
-Инструментарий:
 - Mozilla 26.0
 - Java
 - WebDriver
